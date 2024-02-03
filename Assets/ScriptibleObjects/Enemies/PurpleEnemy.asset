@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b8a7ccd7c25b344fbf488ccfef72aef, type: 3}
+  m_Name: PurpleEnemy
+  m_EditorClassIdentifier: 
+  color: {r: 0.50980395, g: 0, b: 1, a: 1}
+  spriteScale: {x: 4, y: 4}
+  animations: {fileID: 9100000, guid: 83f126e324f31354c90652c3a5cbf8d1, type: 2}
+  moveSpeed: 0.6
+  hp: 20
+  armorType: 1
+  armor: 5
+  score: 200
+  damage: 4
+  gold: 5
+  mana: 3

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a87e69dd8d09251479440d12218c5b86, type: 3}
+  m_Name: New Tower Asset 1
+  m_EditorClassIdentifier: 
+  goldCost: 30
+  GUISprite: {fileID: 21300000, guid: 06b3b764465972e4c85071e9bac4296c, type: 3}
+  sprite: {fileID: 21300000, guid: 961542bf834d173448be6e9b235a3b66, type: 3}
+  turretProperties: {fileID: 11400000, guid: b5f7b16ce012bd74bbf9db54312cfbe1, type: 2}
+  upgradesTo:
+  - {fileID: 11400000, guid: 7e87d3ceb70dd0141999c7a7a3bfdae7, type: 2}
+  requiedUpgrade: {fileID: 11400000, guid: 679b2e7b2101ead49a3e4826e5a7178e, type: 2}
+  requiedUpgradeLevel: 1

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b8a7ccd7c25b344fbf488ccfef72aef, type: 3}
+  m_Name: OrangeEnemy
+  m_EditorClassIdentifier: 
+  color: {r: 1, g: 0.39215687, b: 0, a: 1}
+  spriteScale: {x: 2.3, y: 2.3}
+  animations: {fileID: 9100000, guid: fdac1cf33900dbe42a34c9d100fb6f9b, type: 2}
+  moveSpeed: 0.6666666
+  hp: 10
+  armorType: 0
+  armor: 0
+  score: 100
+  damage: 2
+  gold: 3
+  mana: 2
